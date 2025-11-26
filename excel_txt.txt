@@ -1,0 +1,10 @@
+Donn‚e A1	Donn‚e B1	Donn‚e C1
+Donn‚e A2	Donn‚e B2	Donn‚e C2
+Donn‚e A3	Donn‚e B3	Donn‚e C3
+Donn‚e A4	Donn‚e B4	Donn‚e C4
+Donn‚e A5	Donn‚e B1	Donn‚e C1
+Donn‚e A6	Donn‚e B6	Donn‚e C6
+Donn‚e A7	Donn‚e B7	Donn‚e C7
+Donn‚e A8	Donn‚e B8	Donn‚e C8
+Donn‚e A9	Donn‚e B9	Donn‚e C9
+Donn‚e A10	Donn‚e B10	Donn‚e C10
