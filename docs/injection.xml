@@ -5,8 +5,7 @@
         Injection test.
       </title>
       <description>
-        Test 4 <marquee>défile</marquee>
-        <img src="x" onerror="alert(1)">
+        Test 5 <marquee>défile</marquee>
       </description>
     </item>
   </channel>
