@@ -1,12 +1,10 @@
 <rss version="2.0">
-  
   <channel>
-  
-    <title>Injection test.</title>
+    <title>
+      Injection test.
+    </title>
     <description>
-    <marquee>défile</marquee>
+      Test    
     </description>
-  
   </channel>
-
 </rss>
