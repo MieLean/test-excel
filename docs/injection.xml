@@ -1,4 +1,12 @@
-<title>Injection test</title>
-<description>
-<img src="x" onerror="alert(1)">
-</description>
+<rss version="2.0">
+  
+  <channel>
+  
+    <title>Injection test.</title>
+    <description>
+    <img src="x" onerror="alert(1)">
+    </description>
+  
+  </channel>
+
+</rss>
