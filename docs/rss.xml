@@ -1,0 +1,13 @@
+<rss version="2.0">
+  <channel>
+    <item>
+      <title>
+        Titre test.
+      </title>
+      <description>
+        Description test
+      </description>
+      <media:content width="644" height="322" url="https://pixabay.com/fr/photos/image-9757343/"></media:content>
+    </item>
+  </channel>
+</rss>
