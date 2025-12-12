@@ -2,12 +2,32 @@
   <channel>
     <item>
       <title>
-        Titre test.
+        Titre test 1.
       </title>
       <description>
         Description test
       </description>
       <media:content width="644" height="322" url="https://pixabay.com/fr/photos/image-9757343/"></media:content>
+    </item>
+
+    <item>
+      <title>
+        Titre test 2.
+      </title>
+      <description>
+        Description test
+      </description>
+      <media:content width="644" height="322" url="https://pixabay.com/fr/photos/image-9726574/"></media:content>
+    </item>
+
+    <item>
+      <title>
+        Titre test 3.
+      </title>
+      <description>
+        Description test
+      </description>
+      <media:content width="644" height="322" url="https://pixabay.com/fr/photos/image-9972634/"></media:content>
     </item>
   </channel>
 </rss>
